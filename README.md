@@ -6,7 +6,7 @@
 
 <img src="https://avatars2.githubusercontent.com/u/59339564?v=4"  alt="profile picture" width="150" height="150">
 
-<h2 align="center">Mila Mamat</h2>
+<h2 align="center">Note Taker</h2>
 
 <h3 align="center">
 Node, Express
