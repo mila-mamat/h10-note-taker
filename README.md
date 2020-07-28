@@ -1,6 +1,5 @@
 # homework10-note-taker
 
-
 <br />
 <p align="center">
 
